@@ -1,0 +1,7 @@
+{
+    "pageSize":4,
+    "render":true,
+    "port":4000,
+    "interface":"0.0.0.0",
+    "dir":"posts"
+}

@@ -1,0 +1,5 @@
+{
+  "ruby.lint": {
+    "ruby": true
+  }
+}
